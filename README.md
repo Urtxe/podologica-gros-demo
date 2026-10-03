@@ -26,7 +26,7 @@ La web evita atribuir a Iñaki Cid datos de un perfil homónimo con otra direcci
 
 ## Concepto y recursos
 
-**Clínica de barrio contemporánea.** Blanco hueso, petróleo apagado, líneas de recorrido y señalética de Usandizaga 20. La composición toma la idea de caminar y llegar, sin dibujos de pies ni promesas sanitarias. Las secciones son: portada con llamada, identidad y datos, personas, podología contrastada, pedir cita, opiniones, ubicación, dudas prácticas y contacto final.
+**Clínica de barrio contemporánea.** Blanco hueso, petróleo apagado, líneas de recorrido y señalética de Usandizaga 20. La composición toma la idea de caminar y llegar, sin dibujos de pies ni promesas sanitarias. Las secciones son: portada con llamada, identidad y datos, personas, información general sobre podología, pedir cita, salud de los pies, ubicación, dudas prácticas y contacto final. Los textos de salud y servicios son provisionales; la clínica deberá revisar y sustituirlos por su contenido definitivo.
 
 `assets/clinica-conceptual.webp` fue generado con la herramienta integrada `image_gen` y optimizado a WebP (aprox. 148 KB). Prompt: interior arquitectónico ficticio de una pequeña clínica de barrio, luz natural, suelo claro y banco azul petróleo, sin personas, pies, instrumental, rótulos ni símbolos médicos. **No representa el establecimiento real** y la página lo identifica. El favicon es un SVG original creado para la demo. No se descargaron fotos del negocio ni de directorios.
 
