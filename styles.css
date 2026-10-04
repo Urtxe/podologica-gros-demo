@@ -1135,3 +1135,4 @@ h2 span {
     padding-right: 8px;
   }
 }
+.action-icon{display:inline-block;width:20px;height:20px;flex:none;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
